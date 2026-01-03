@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello! 👋
+
+I’m a fourth-year Applied Computer Science student at Nicolaus Copernicus University in Toruń.
+ 
+My passionates are frontend or backend development, music and creating visual tools for education. ⚡
+
+I specialize in web technologies such as React and ASP.NET Core. I enjoy building applications that solve real-world problems and help users.
+
+I’m constantly improving my programming skills by learning new technologies and working on team projects.
+
+Feel free to check out my projects! 🚀
 
 <!--
 **DawidMoczulski/DawidMoczulski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
