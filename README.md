@@ -6,7 +6,7 @@ My passionates are frontend or backend development, music and creating visual to
 
 I specialize in web technologies such as React and ASP.NET Core. I enjoy building applications that solve real-world problems and help users.
 
-I’m constantly improving my programming skills by learning new technologies and working on team projects.
+I’m constantly improving my programming skills by learning new technologies and working on team projects.💻
 
 Feel free to check out my projects! 🚀
 
