@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I’m a fourth-year Applied Computer Science student at Nicolaus Copernicus University in Toruń.
+I'm a graduate of engineering studies Computer Science student at Nicolaus Copernicus University in Toruń.
  
 My passionates are frontend or backend development, music and creating visual tools for education. ⚡
 
